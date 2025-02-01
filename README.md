@@ -205,54 +205,17 @@ Developers can inspect designs directly in Figma.
 
 <h3>12. Figma Shortcuts and Tips</h3>
 
-<h4>Essential Shortcuts</h4>
+<h4>Essential Shortcuts:</h4>
 
- <table>
-  <tr>
-    <th>Action</th>
-    <th>Shortcut (Windows)</th>
-    <th>Shortcut (Mac)</th>
-  </tr>
-  <tr>
-    <td>Duplicate</td>
-    <td>```Ctrl + D```</td>
-    <td>```Cmd + D```</td>
-  </tr>
-  <tr>
-    <td>Group</td>
-    <td>```Ctrl + G```</td>
-    <td>```Cmd + G```</td>
-  </tr>
-     <tr>
-    <td>Ungroup</td>
-    <td>```Ctrl + Shift + G```</td>
-    <td>```Cmd + Shift + G```</td>
-  </tr>
-     <tr>
-    <td>Zoom In</td>
-    <td>```Ctrl + +```</td>
-    <td>```Cmd + +```</td>
-  </tr>
-     <tr>
-    <td>Zoom Out</td>
-    <td>```Ctrl + -```</td>
-    <td>```Cmd + -```</td>
-  </tr>
-     <tr>
-    <td>Toggle Layers</td>
-    <td>```Alt + 1```</td>
-    <td>```Option + 1```</td>
-  </tr>
-     <tr>
-    <td>Toggle Assets</td>
-    <td>```Alt + 2```</td>
-    <td>```Option + 2```</td>
-  </tr>
-</table>
-
-| Column 1 |
-|----------|
-| `'''ABC'` |
+| Action | Shortcut (Windows) | Shortcut (Mac) |
+|----------|----------|----------|
+| Duplicate    | ```Ctrl + D```   | ```Cmd + D```   |
+| Group   | ```Ctrl + G```   | ```Cmd + G```   |
+| Ungroup   | ```Ctrl + Shift + G```   | ```Cmd + Shift + G```   |
+| Zoom In   | ```Ctrl + +```   | ```Cmd + +```   |
+| Zoom Out   | ```Ctrl + -```   | ```Cmd + -```   |
+| Toggle Layers   | ```Alt + 1```   | ```Option + 1```   |
+| Toggle Assets   | ```Alt + 2```   | ```Option + 2```   |
 
 <h3>Pro Tips:</h3>
 
