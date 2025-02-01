@@ -250,6 +250,10 @@ Developers can inspect designs directly in Figma.
   </tr>
 </table>
 
+| Column 1 |
+|----------|
+| `'''ABC'` |
+
 <h3>Pro Tips:</h3>
 
 - Use Constraints: Lock elements to resize dynamically.
