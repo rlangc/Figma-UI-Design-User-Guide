@@ -4,74 +4,78 @@ Figma has revolutionized the UI/UX design world with its cloud-based, collaborat
 
 <h2>Table of Contents</h2>
 
-
-    Introduction to Figma
-    Setting Up Figma
-    Understanding the Figma Interface
-    Working with Frames and Artboards
-    Creating and Managing Components
-    Using Auto Layout for Responsive Design
-    Collaborative Features in Figma
-    Prototyping and Interactions
-    Working with Plugins and Integrations
-    Exporting and Handoff for Developers
-    Advanced Figma Features
-    Figma Shortcuts and Tips
-
 1. Introduction to Figma
+2. Setting Up Figma
+3. Understanding the Figma Interface
+4. Working with Frames and Artboards
+5. Creating and Managing Components
+6. Using Auto Layout for Responsive Design
+7. Collaborative Features in Figma
+8. Prototyping and Interactions
+9. Working with Plugins and Integrations
+10. Exporting and Handoff for Developers
+11. Advanced Figma Features
+12. Figma Shortcuts and Tips
+
+<h2></h2>
+
+<h3>1. Introduction to Figma</h3>
 
 Figma is a cloud-based UI/UX design tool that enables real-time collaboration among designers, developers, and stakeholders. Unlike Sketch or Adobe XD, Figma does not require local installations—it runs directly in your web browser with desktop apps available for macOS and Windows.
+
 Key Features:
+- Cloud-based real-time collaboration
+- Version control with history tracking
+- Vector-based design with powerful tools
+- Component and asset libraries
+- Prototyping and interactive elements
+- Auto Layout for responsive design
+- Plugin ecosystem for extended functionalities
 
-    Cloud-based real-time collaboration
-    Version control with history tracking
-    Vector-based design with powerful tools
-    Component and asset libraries
-    Prototyping and interactive elements
-    Auto Layout for responsive design
-    Plugin ecosystem for extended functionalities
+<h2></h2>
 
-2. Setting Up Figma
+<h3>2. Setting Up Figma</h3>
 
 To start using Figma, follow these steps:
+- Create an Account:
+    - Visit figma.com and sign up with your email or Google account
+- Download the Desktop App (Optional):
+    - Figma runs in the browser, but you can install the desktop app for macOS or Windows
+- Install Figma Fonts (Optional):
+    - If you're using the web version, install the Figma Font Helper to use local fonts
+- Join a Team (Optional):
+    - You can create or join teams for better collaboration
 
-    Create an Account:
-    Visit figma.com and sign up with your email or Google account.
+<h2></h2>
 
-    Download the Desktop App (Optional):
-    Figma runs in the browser, but you can install the desktop app for macOS or Windows.
-
-    Install Figma Fonts (Optional):
-        If you're using the web version, install the Figma Font Helper to use local fonts.
-
-    Join a Team (Optional):
-    You can create or join teams for better collaboration.
-
-3. Understanding the Figma Interface
+<h3>3. Understanding the Figma Interface</h3>
 
 The Figma interface consists of:
+- Toolbar (Top): Contains selection tools, shapes, text, pen tool, and prototype options
+- Layers Panel (Left): Displays all elements in your file
+- Canvas (Center): The workspace where you design
+- Properties Panel (Right): Allows modifications like color, typography, and effects
+ - Assets Panel: Manages reusable components
 
-    Toolbar (Top): Contains selection tools, shapes, text, pen tool, and prototype options.
-    Layers Panel (Left): Displays all elements in your file.
-    Canvas (Center): The workspace where you design.
-    Properties Panel (Right): Allows modifications like color, typography, and effects.
-    Assets Panel: Manages reusable components.
+<h2></h2>
 
-4. Working with Frames and Artboards
-Creating Frames
+<h3>4. Working with Frames and Artboards</h3>
+
+<h4>Creating Frames</h4>
 
 Frames act as artboards where you design screens. To create a frame:
+- Press ```F``` or select Frame from the toolbar
+- Choose from preset frame sizes (Desktop, Mobile, Tablet, etc.)
+- Resize manually if needed
 
-    Press F or select Frame from the toolbar.
-    Choose from preset frame sizes (Desktop, Mobile, Tablet, etc.).
-    Resize manually if needed.
+<h4>Using Grids and Guides</h4>
 
-Using Grids and Guides
+- Grids: Go to the properties panel and enable a layout grid.
+- Guides: Drag from the ruler (```Shift + R``` to toggle rulers).
 
-    Grids: Go to the properties panel and enable a layout grid.
-    Guides: Drag from the ruler (Shift + R to toggle rulers).
+<h2></h2>
 
-5. Creating and Managing Components
+<h3>5. Creating and Managing Components</h3>
 
 Components help create reusable UI elements like buttons, cards, and icons.
 Creating a Component
@@ -91,7 +95,10 @@ Using Component Instances
     Drag instances from the Assets Panel onto the canvas.
     Override text, colors, or other properties without detaching the instance.
 
-6. Using Auto Layout for Responsive Design
+<h2></h2>
+
+<h3>6. Using Auto Layout for Responsive Design</h3>
+
 
 Auto Layout allows dynamic resizing of components.
 Enabling Auto Layout
@@ -106,7 +113,10 @@ Benefits of Auto Layout
     Helps maintain consistent spacing.
     Automatically resizes text-based elements.
 
-7. Collaborative Features in Figma
+<h2></h2>
+
+<h3>7. Collaborative Features in Figma</h3>
+
 
 Figma’s collaboration tools make teamwork seamless.
 Real-Time Collaboration
@@ -123,7 +133,10 @@ Sharing Files
 
     Use "Share Link" to grant view or edit permissions.
 
-8. Prototyping and Interactions
+<h2></h2>
+
+<h3>8. Prototyping and Interactions</h3>
+
 
 Figma allows interactive prototypes without coding.
 Creating a Prototype
@@ -137,7 +150,10 @@ Smart Animate
 
     Used for smooth transitions between states (e.g., button hover effects).
 
-9. Working with Plugins and Integrations
+<h2></h2>
+
+<h3>9. Working with Plugins and Integrations</h3>
+
 
 Figma supports plugins for additional functionality.
 Installing Plugins
@@ -151,7 +167,10 @@ Popular Plugins
     Contrast: Checks accessibility contrast.
     Figmotion: Adds animations.
 
-10. Exporting and Handoff for Developers
+<h2></h2>
+
+<h3>10. Exporting and Handoff for Developers</h3>
+
 
 Developers can inspect designs directly in Figma.
 Exporting Assets
@@ -165,7 +184,10 @@ Developer Handoff
     Click "Inspect" mode to show CSS properties.
     Use plugins like Zeplin or Figma Dev Mode for better handoff.
 
-11. Advanced Figma Features
+<h2></h2>
+
+<h3>11. Advanced Figma Features</h3>
+
 Design Systems
 
     Create reusable styles for colors, text, and effects.
@@ -178,7 +200,10 @@ Interactive Components
 
     Used for toggle switches and animated elements.
 
-12. Figma Shortcuts and Tips
+<h2></h2>
+
+<h3>12. Figma Shortcuts and Tips</h3>
+
 Essential Shortcuts
 Action	Shortcut (Windows)	Shortcut (Mac)
 Duplicate	Ctrl + D	Cmd + D
@@ -195,7 +220,7 @@ Pro Tips
     Enable Smart Selection: Adjust multiple elements at once.
     Use Color Styles: Define a design system with consistent colors.
 
-Final Thoughts
+<h2>Final Thoughts</h2>
 
 Figma is an industry-leading UI/UX tool thanks to its cloud-based, real-time collaboration and powerful design features. Whether you're a solo designer or part of a large team, Figma simplifies the design workflow and enhances productivity.
 
