@@ -70,155 +70,192 @@ Frames act as artboards where you design screens. To create a frame:
 
 <h4>Using Grids and Guides</h4>
 
-- Grids: Go to the properties panel and enable a layout grid.
-- Guides: Drag from the ruler (```Shift + R``` to toggle rulers).
+- Grids: Go to the properties panel and enable a layout grid
+- Guides: Drag from the ruler (```Shift + R``` to toggle rulers)
 
 <h2></h2>
 
 <h3>5. Creating and Managing Components</h3>
 
 Components help create reusable UI elements like buttons, cards, and icons.
-Creating a Component
 
-    Select a group of elements.
-    Right-click and choose "Create Component" or press Ctrl + Alt + K (Cmd + Option + K on Mac).
+<h4>Creating a Component</h4>
 
-Using Component Variants
+- Select a group of elements
+- Right-click and choose "Create Component" or press ```Ctrl + Alt + K``` (```Cmd + Option + K``` on Mac)
+
+<h4>Using Component Variants</h4>
 
 Variants allow multiple states for components (e.g., buttons with hover states).
 
-    Select a component and click "Add Variant" in the right panel.
-    Modify properties to define different states.
+- Select a component and click "Add Variant" in the right panel
+- Modify properties to define different states
 
-Using Component Instances
+<h4>Using Component Instances</h4>
 
-    Drag instances from the Assets Panel onto the canvas.
-    Override text, colors, or other properties without detaching the instance.
+- Drag instances from the Assets Panel onto the canvas
+- Override text, colors, or other properties without detaching the instance
 
 <h2></h2>
 
 <h3>6. Using Auto Layout for Responsive Design</h3>
 
-
 Auto Layout allows dynamic resizing of components.
-Enabling Auto Layout
 
-    Select a frame or component.
-    Click "Auto Layout" in the right panel.
-    Adjust padding, spacing, and direction.
+<h4>Enabling Auto Layout</h4>
 
-Benefits of Auto Layout
+- Select a frame or component
+- Click "Auto Layout" in the right panel
+- Adjust padding, spacing, and direction
 
-    Adapts components to different screen sizes.
-    Helps maintain consistent spacing.
-    Automatically resizes text-based elements.
+<h4>Benefits of Auto Layout</h4>
+
+- Adapts components to different screen sizes
+- Helps maintain consistent spacing
+- Automatically resizes text-based elements
 
 <h2></h2>
 
 <h3>7. Collaborative Features in Figma</h3>
 
-
 Figma’s collaboration tools make teamwork seamless.
-Real-Time Collaboration
 
-    Invite team members using the "Share" button.
-    Comment directly on designs (C key to add comments).
+<h4>Real-Time Collaboration</h4>
 
-Version Control
+- Invite team members using the "Share" button
+- Comment directly on designs (```C``` key to add comments)
 
-    Click "File" → "Show Version History" to view previous edits.
-    Restore earlier versions without affecting others.
+<h4>Version Control</h4>
 
-Sharing Files
+- Click "File" → "Show Version History" to view previous edits
+- Restore earlier versions without affecting others
 
-    Use "Share Link" to grant view or edit permissions.
+<h4>Sharing Files</h4>
+
+- Use "Share Link" to grant view or edit permissions
 
 <h2></h2>
 
 <h3>8. Prototyping and Interactions</h3>
 
-
 Figma allows interactive prototypes without coding.
-Creating a Prototype
 
-    Switch to the Prototype Tab in the right panel.
-    Select an element and drag a connection to another frame.
-    Define interaction settings (On Click, Hover, etc.).
-    Press Play to preview.
+<h4>Creating a Prototype</h4>
 
-Smart Animate
+- Switch to the Prototype Tab in the right panel
+- Select an element and drag a connection to another frame
+- Define interaction settings (On Click, Hover, etc.)
+- Press ```Play``` to preview
 
-    Used for smooth transitions between states (e.g., button hover effects).
+<h4>Smart Animate</h4>
+
+- Used for smooth transitions between states (e.g., button hover effects)
 
 <h2></h2>
 
 <h3>9. Working with Plugins and Integrations</h3>
 
-
 Figma supports plugins for additional functionality.
-Installing Plugins
 
-    Click Figma → Plugins → Browse Plugins and install from the community.
+<h4>Installing Plugins</h4>
 
-Popular Plugins
+- Click ```Figma``` > ```Plugins``` > ```Browse``` Plugins and install from the community
 
-    Unsplash: Free stock images.
-    Iconify: Thousands of icons.
-    Contrast: Checks accessibility contrast.
-    Figmotion: Adds animations.
+<h4>Popular Plugins</h4>
+
+- Unsplash: Free stock images
+- Iconify: Thousands of icons
+- Contrast: Checks accessibility contrast
+- Figmotion: Adds animations
 
 <h2></h2>
 
 <h3>10. Exporting and Handoff for Developers</h3>
 
-
 Developers can inspect designs directly in Figma.
-Exporting Assets
 
-    Select an element.
-    Click "Export" in the right panel.
-    Choose format (PNG, SVG, JPG, PDF).
+<h4>Exporting Assets</h4>
 
-Developer Handoff
+- Select an element
+- Click "Export" in the right panel
+- Choose format (```PNG, SVG, JPG, PDF```)
 
-    Click "Inspect" mode to show CSS properties.
-    Use plugins like Zeplin or Figma Dev Mode for better handoff.
+<h4>Developer Handoff</h4>
+
+- Click "Inspect" mode to show CSS properties.
+- Use plugins like Zeplin or Figma Dev Mode for better handoff.
 
 <h2></h2>
 
 <h3>11. Advanced Figma Features</h3>
 
-Design Systems
+<h4>Design Systems</h4>
 
-    Create reusable styles for colors, text, and effects.
+- Create reusable styles for colors, text, and effects
 
-Figma FigJam
+<h4>Figma FigJam</h4>
 
-    A brainstorming tool for wireframing and ideation.
+- A brainstorming tool for wireframing and ideation
 
-Interactive Components
+<h4>Interactive Components</h4>
 
-    Used for toggle switches and animated elements.
+- Used for toggle switches and animated elements
 
 <h2></h2>
 
 <h3>12. Figma Shortcuts and Tips</h3>
 
-Essential Shortcuts
-Action	Shortcut (Windows)	Shortcut (Mac)
-Duplicate	Ctrl + D	Cmd + D
-Group	Ctrl + G	Cmd + G
-Ungroup	Ctrl + Shift + G	Cmd + Shift + G
-Zoom In	Ctrl + +	Cmd + +
-Zoom Out	Ctrl + -	Cmd + -
-Toggle Layers	Alt + 1	Option + 1
-Toggle Assets	Alt + 2	Option + 2
-Pro Tips
+<h4>Essential Shortcuts</h4>
 
-    Use Constraints: Lock elements to resize dynamically.
-    Leverage Community Files: Free UI kits and templates.
-    Enable Smart Selection: Adjust multiple elements at once.
-    Use Color Styles: Define a design system with consistent colors.
+ <table>
+  <tr>
+    <th>Action</th>
+    <th>Shortcut (Windows)</th>
+    <th>Shortcut (Mac)</th>
+  </tr>
+  <tr>
+    <td>Duplicate</td>
+    <td>```Ctrl + D```</td>
+    <td>```Cmd + D```</td>
+  </tr>
+  <tr>
+    <td>Group</td>
+    <td>```Ctrl + G```</td>
+    <td>```Cmd + G```</td>
+  </tr>
+     <tr>
+    <td>Ungroup</td>
+    <td>```Ctrl + Shift + G```</td>
+    <td>```Cmd + Shift + G```</td>
+  </tr>
+     <tr>
+    <td>Zoom In</td>
+    <td>```Ctrl + +```</td>
+    <td>```Cmd + +```</td>
+  </tr>
+     <tr>
+    <td>Zoom Out</td>
+    <td>```Ctrl + -```</td>
+    <td>```Cmd + -```</td>
+  </tr>
+     <tr>
+    <td>Toggle Layers</td>
+    <td>```Alt + 1```</td>
+    <td>```Option + 1```</td>
+  </tr>
+     <tr>
+    <td>Toggle Assets</td>
+    <td>```Alt + 2```</td>
+    <td>```Option + 2```</td>
+  </tr>
+</table>
+
+<h3>Pro Tips:</h3>
+
+- Use Constraints: Lock elements to resize dynamically.
+- Leverage Community Files: Free UI kits and templates.
+- Enable Smart Selection: Adjust multiple elements at once.
+- Use Color Styles: Define a design system with consistent colors.
 
 <h2>Final Thoughts</h2>
 
