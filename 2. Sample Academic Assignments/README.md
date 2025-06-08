@@ -1,0 +1,1 @@
+Explore scholarly work related to technical documentation and user guide development. These materials include graduate-level assignments, research papers, and reflections on usability, information design, and instructional communication. Each document showcases applied understanding of creating accessible, effective, and user-friendly guides grounded in theory.
