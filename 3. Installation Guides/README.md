@@ -1,0 +1,1 @@
+This section contains step-by-step installation instructions for a wide range of software, hardware, environments, and plugins. Each guide outlines system requirements, pre-installation checklists, detailed instructions, and visual references. Troubleshooting advice is included to support users at various technical levels.
