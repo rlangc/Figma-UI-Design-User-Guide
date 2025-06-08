@@ -1,4 +1,4 @@
-## InstallOps: Technical Guides for Installation and End-User
+## Technical Guides for Installation and End-User
 
 This repository offers a comprehensive collection of installation guides, user manuals, technical documentation standards, and supporting resources designed to support efficient deployment and informed tool usage. Whether you're installing enterprise software, configuring system environments, or training users on how to navigate new platforms, this collection provides detailed, accessible, and adaptable documentation for a wide range of technologies and use cases.
 
