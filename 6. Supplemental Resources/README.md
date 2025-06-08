@@ -1,0 +1,1 @@
+A curated collection of reference materials, toolkits, and third-party resources to support documentation efforts. This includes comparisons of authoring tools, external articles and whitepapers, links to official software documentation, and helpful utilities for capturing and editing visuals or automating content formatting.
