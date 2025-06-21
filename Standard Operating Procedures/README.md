@@ -1,1 +1,1 @@
-Coming Soon!
+The Standard Operating Procedure (SOP) section outlines standardized processes for installing, maintaining, and managing systems documented in this repository. These procedures ensure consistency, reduce errors, and support efficient onboarding by providing clear, repeatable steps for common workflows and administrative tasks.
