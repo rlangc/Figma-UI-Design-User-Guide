@@ -1,0 +1,1 @@
+The Documentation Methodologies section explores foundational and modern approaches to creating effective technical content. From Agile and Minimalist writing to structured frameworks like DITA, these resources provide strategic insight into selecting and applying the right methodology for your documentation needs.
