@@ -2,7 +2,7 @@
 
 This document provides a side-by-side comparison of popular tools used to create job aids, focusing on usability, features, and ideal use cases.
 
-## 📊 Comparison Table
+## Comparison Table
 
 | Tool            | Strengths                        | Limitations               | Best For                         | Format Types Supported |
 |------------------|----------------------------------|----------------------------|----------------------------------|-------------------------|
