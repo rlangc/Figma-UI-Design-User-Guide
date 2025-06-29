@@ -2,7 +2,7 @@
 
 This Quick Reference Guide (QRG) provides users with a rapid overview of key functions and shortcuts for a specific tool or process. It is ideal for on-the-job reference or onboarding.
 
-## 🛠Tool: File Management System (FMS)
+## Tool: File Management System (FMS)
 
 ### Common Tasks
 
