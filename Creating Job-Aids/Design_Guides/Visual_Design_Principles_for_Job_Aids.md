@@ -60,4 +60,4 @@ Design plays a critical role in how effectively users can interact with and appl
 
 #
 
-> By applying these visual design principles, your job aids will not only look better—but work better for the people who depend on them.
+By applying these visual design principles, your job aids will not only look better—but work better for the people who depend on them.
