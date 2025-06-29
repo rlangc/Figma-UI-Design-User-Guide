@@ -58,4 +58,4 @@ A well-placed diagram can reduce words and clarify actions.
 
 #
 
-By applying principles of cognitive load management and effective chunking, your job aids will support faster, clearer decision-making and reduce the mental strain on your users.
+> By applying principles of cognitive load management and effective chunking, your job aids will support faster, clearer decision-making and reduce the mental strain on your users.
