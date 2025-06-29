@@ -43,5 +43,3 @@ Start by reviewing the folders by category. Each one includes a `README.md` or d
 - `Troubleshooting_Guides/`
 - `Markdown_vs_HTML_vs_Word_Guides.md`
 - `Resources_and_References/`
-
-> Contributions are welcome. Use the `CONTRIBUTING.md` file to review formatting guidelines and structure expectations.
