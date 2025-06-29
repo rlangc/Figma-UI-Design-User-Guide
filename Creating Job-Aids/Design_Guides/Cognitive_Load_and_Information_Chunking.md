@@ -1,8 +1,6 @@
-# 🧠 Cognitive Load and Information Chunking in Job Aids
+# Cognitive Load and Information Chunking in Job Aids
 
 Job aids are meant to support performance without overwhelming the user. Understanding cognitive load and using chunking techniques helps ensure that the content is easy to process, remember, and apply.
-
----
 
 ## 1. What is Cognitive Load?
 
@@ -13,9 +11,7 @@ There are three types of cognitive load:
 - **Extraneous Load** – how the information is presented
 - **Germane Load** – the mental effort needed to connect knowledge
 
-🎯 Job aids should reduce **extraneous load** to make task execution easier.
-
----
+Job aids should reduce **extraneous load** to make task execution easier.
 
 ## 2. The Power of Chunking
 
@@ -24,9 +20,7 @@ Chunking is the process of organizing information into manageable units:
 - Use **headers, borders, or shading** to separate chunks
 - Visually group related content using proximity and spacing
 
-📦 Think of each chunk as a single cognitive “package” for the brain.
-
----
+Think of each chunk as a single cognitive “package” for the brain.
 
 ## 3. Use Familiar Structures
 
@@ -36,9 +30,7 @@ Use patterns the user already knows:
 - Step-by-step workflows
 - If-then decision logic
 
-🔁 Repetition of structure improves processing speed and memory.
-
----
+Repetition of structure improves processing speed and memory.
 
 ## 4. Prioritize and Sequence
 
@@ -46,9 +38,7 @@ Use patterns the user already knows:
 - Use hierarchy (bold, font size) to show importance
 - Sequence tasks in **logical, procedural order**
 
-📍 The first and last items in a sequence are most memorable (serial position effect).
-
----
+The first and last items in a sequence are most memorable (serial position effect).
 
 ## 5. Remove Cognitive Clutter
 
@@ -56,9 +46,7 @@ Use patterns the user already knows:
 - Use consistent terminology throughout
 - Limit font styles, colors, and dense text blocks
 
-🚫 Cognitive noise slows task execution and increases errors.
-
----
+Cognitive noise slows task execution and increases errors.
 
 ## 6. Reinforce with Visuals
 
@@ -66,8 +54,8 @@ Use patterns the user already knows:
 - Highlight patterns or paths in diagrams
 - Avoid overloading visuals with too much text
 
-👁️ A well-placed diagram can reduce words and clarify actions.
+A well-placed diagram can reduce words and clarify actions.
 
----
+#
 
 By applying principles of cognitive load management and effective chunking, your job aids will support faster, clearer decision-making and reduce the mental strain on your users.
