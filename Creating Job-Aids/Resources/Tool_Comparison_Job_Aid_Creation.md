@@ -15,5 +15,5 @@ This document provides a side-by-side comparison of popular tools used to create
 
 ## Notes
 
-Choose tools based on your audience, the intended format (print or digital), and the type of information being communicated. Consider mixing tools to combine strengths—for example, using Snagit visuals within a Word document or embedding a Canva graphic into PowerPoint.
+Choose tools based on your audience, the intended format (print or digital), and the type of information being communicated. Consider mixing tools to combine strengths (i.e., using Snagit visuals within a Word document or embedding a Canva graphic into PowerPoint).
 
