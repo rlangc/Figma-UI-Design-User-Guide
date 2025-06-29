@@ -1,10 +1,8 @@
-# 🔄 Before and After Comparison: Job Aid Redesign
+# Before and After Comparison: Job Aid Redesign
 
 This document illustrates a side-by-side comparison between an original job aid and its redesigned version. It highlights improvements made in clarity, usability, and visual design to better support user performance.
 
----
-
-## 📝 Original Version (Before)
+## Original Version (Before)
 
 ### Title: Accessing the Internal HR Portal
 
@@ -19,9 +17,7 @@ This document illustrates a side-by-side comparison between an original job aid 
 - No visual cues or screenshots
 - Lacks clarity about what “employee website” or “correct link” means
 
----
-
-## ✅ Redesigned Version (After)
+## Redesigned Version (After)
 
 ### Title: How to Access the Internal HR Portal
 
@@ -34,15 +30,13 @@ This document illustrates a side-by-side comparison between an original job aid 
 5. Once logged in, navigate to **“My Benefits”** or **“Payroll Info”** as needed.
 
 **Visual Aid:**  
-📷 [Insert Screenshot – Portals Dropdown]
+[Insert Screenshot – Portals Dropdown]
 
 **Additional Notes:**
 - HR Portal access is only available during business hours (8AM–6PM EST).
 - Use your company email credentials (john.doe@company.org).
 
----
-
-## 💡 Summary of Improvements
+## Summary of Improvements
 
 | Aspect             | Before                     | After                          |
 |--------------------|----------------------------|---------------------------------|
@@ -52,6 +46,6 @@ This document illustrates a side-by-side comparison between an original job aid 
 | Actionability      | Low                        | High                            |
 | Accessibility      | Not considered             | Screen reader-compatible format |
 
----
+#
 
-Redesigning job aids using user-centered principles improves task efficiency, reduces confusion, and enhances the user experience.
+> Redesigning job aids using user-centered principles improves task efficiency, reduces confusion, and enhances the user experience.
