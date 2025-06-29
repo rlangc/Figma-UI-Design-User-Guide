@@ -8,7 +8,7 @@ Start with a clear objective:
 - What task or decision does the job aid support?
 - Who will use it and in what context (e.g., high-pressure, daily task, occasional troubleshooting)?
 
-Focus on **high-frequency or error-prone tasks**.
+> Focus on **high-frequency or error-prone tasks**.
 
 ## 2. Choose the Right Format
 
