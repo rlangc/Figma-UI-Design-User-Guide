@@ -1,12 +1,10 @@
-# 📄 Sample Quick Reference Guide
+# Sample Quick Reference Guide
 
 This Quick Reference Guide (QRG) provides users with a rapid overview of key functions and shortcuts for a specific tool or process. It is ideal for on-the-job reference or onboarding.
 
----
+## 🛠Tool: File Management System (FMS)
 
-## 🛠️ Tool: File Management System (FMS)
-
-### 🔑 Common Tasks
+### Common Tasks
 
 | Task                      | Action                                   |
 |---------------------------|-------------------------------------------|
@@ -16,9 +14,7 @@ This Quick Reference Guide (QRG) provides users with a rapid overview of key fun
 | Search for File           | Use the Search bar at the top            |
 | Share File                | Click “Share” → Choose user/permissions  |
 
----
-
-### ⚙️ Keyboard Shortcuts
+### Keyboard Shortcuts
 
 | Function                 | Shortcut             |
 |--------------------------|----------------------|
@@ -28,14 +24,12 @@ This Quick Reference Guide (QRG) provides users with a rapid overview of key fun
 | Undo                    | Ctrl + Z             |
 | Find                    | Ctrl + F             |
 
----
-
-### 🧠 Tips
+### Tips
 
 - Use version numbers in file names (e.g., `ProjectPlan_v2.docx`)
 - Always confirm shared permissions before finalizing
 - Use folder colors/tags for better organization (if supported)
 
----
+#
 
 For more detailed instructions, refer to the [User Manual](#) or contact support.
