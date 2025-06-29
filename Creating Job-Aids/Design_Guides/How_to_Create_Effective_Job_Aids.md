@@ -60,4 +60,4 @@ Job aids work best for **procedural tasks**. They are **not ideal** for:
 
 #
 
-By following these principles, you can create job aids that truly support performance—right when and where it’s needed.
+By following these principles, you can create job aids that truly support performance, right when and where it’s needed.
