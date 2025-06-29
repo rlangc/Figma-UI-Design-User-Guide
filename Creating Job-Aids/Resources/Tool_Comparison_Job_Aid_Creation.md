@@ -1,8 +1,6 @@
-# 🧰 Tool Comparison for Job Aid Creation
+# Tool Comparison for Job Aid Creation
 
 This document provides a side-by-side comparison of popular tools used to create job aids, focusing on usability, features, and ideal use cases.
-
----
 
 ## 📊 Comparison Table
 
@@ -15,9 +13,7 @@ This document provides a side-by-side comparison of popular tools used to create
 | Snagit           | Image annotations, screen capture | Limited to visual instructions | Screenshot tutorials     | PNG, PDF                |
 | Lucidchart       | Professional flowcharts, templates | Learning curve             | Process diagrams                | PDF, PNG                |
 
----
-
-## 📝 Notes
+## Notes
 
 Choose tools based on your audience, the intended format (print or digital), and the type of information being communicated. Consider mixing tools to combine strengths—for example, using Snagit visuals within a Word document or embedding a Canva graphic into PowerPoint.
 
