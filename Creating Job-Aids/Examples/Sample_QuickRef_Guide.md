@@ -8,11 +8,11 @@ This Quick Reference Guide (QRG) provides users with a rapid overview of key fun
 
 | Task                      | Action                                   |
 |---------------------------|-------------------------------------------|
-| Create New Folder         | Right-click → New → Folder                |
-| Rename File/Folder        | Right-click → Rename                      |
+| Create New Folder         | Right-click > New > Folder                |
+| Rename File/Folder        | Right-click > Rename                      |
 | Upload File               | Drag and drop or click “Upload”          |
 | Search for File           | Use the Search bar at the top            |
-| Share File                | Click “Share” → Choose user/permissions  |
+| Share File                | Click “Share” > Choose user/permissions  |
 
 ### Keyboard Shortcuts
 
