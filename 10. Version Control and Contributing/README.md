@@ -1,1 +1,0 @@
-This section manages repository governance, tracking updates and facilitating collaboration. It includes contribution guidelines, licensing information, and a changelog documenting revisions over time. Contributors can reference this section for version history, repository standards, and participation instructions.
